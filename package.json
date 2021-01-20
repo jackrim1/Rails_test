@@ -38,7 +38,7 @@
     "tippy.js": "^6.0.0",
     "tributejs": "^5.0.0",
     "trix": "^1.2.0",
-    "webpack": "^5.11.0",
+    "webpack": "^5.16.0",
     "webpack-cli": "^4.2.0"
   },
   "devDependencies": {
