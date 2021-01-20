@@ -58,6 +58,6 @@ class TweetsController < ApplicationController
 
   # Only allow a trusted parameter "white list" through.
   def tweet_params
-    params.require(:tweet).permit(:body, :title)
+    params.require(:tweet).permit(:body, :title, :footnote)
   end
 end
